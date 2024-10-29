@@ -116,9 +116,9 @@ automate_entry()
 
 ## Screenshot
 
-![10/10 Day User Interface](
-![](https://blog.stephsmith.io/content/images/size/w2000/2019/10/joanna-kosinska-1_CMoFsPfso-unsplash-2-1.jpg)
-)
+![10day](https://github.com/user-attachments/assets/0f1c3a15-6431-4057-9fb3-a6a437b33be6)
+
+
 
 ---
 
